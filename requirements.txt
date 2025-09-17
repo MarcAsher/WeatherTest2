@@ -1,0 +1,8 @@
+# Weather CLI Application Dependencies
+# This application uses only Python standard library modules
+# No external dependencies required
+
+# For future enhancements, consider:
+# requests>=2.28.0  # Alternative to urllib for HTTP requests
+# click>=8.0.0      # Enhanced command line interface
+# pytest>=7.0.0     # Alternative testing framework
