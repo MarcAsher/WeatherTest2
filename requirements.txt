@@ -1,0 +1,5 @@
+# Weather Data Fetcher Dependencies
+# This project uses only Python standard library modules for the main functionality.
+# Test dependencies:
+pytest>=7.0.0
+pytest-cov>=4.0.0
